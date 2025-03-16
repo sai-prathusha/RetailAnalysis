@@ -5,3 +5,4 @@
 c
 This is sample text file.making changes for stash
 Making changes in newBranchnewBranch2
+updating directly on remote repo
